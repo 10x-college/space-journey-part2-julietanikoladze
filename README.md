@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/om7GNoCM)
 როგორც გახსოვთ წინა დავალებაში იუპიტერთან ახლოს ხომალდი დაგიზიანდათ,
 თქვენი გაგზავნილი SOS წერილი ნასაზე ადრე უცხოპლანეტელებმა ნახეს და თქვენი
 დახმარება გადაწყვიტეს, ასე მოხვდით ინტერპლანეტარულ აეროპორტში
@@ -134,7 +135,7 @@ Fieldset 2 (Flight Parameters): Use `<fieldset>` with a `<legend>` "FLIGHT PARAM
 
 Datalist Input: create an input with list="planets" and a corresponding `<datalist id="planets">` containing options for the 4 destinations.
 
-Select Dropdown: Create a `<select>` for "Cabin Class" with options: Economy (Stasis Pod), Business (Quarters), First (Zero-G Suite).
+Select Dropdown: Create a `select>` for "Cabin Class" with options: Economy (Stasis Pod), Business (Quarters), First (Zero-G Suite).<
 
 Submit: Add a `<button type="submit">` with text AUTHORIZE CREDIT TRANSFER.
 
