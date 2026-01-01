@@ -135,7 +135,7 @@ Fieldset 2 (Flight Parameters): Use `<fieldset>` with a `<legend>` "FLIGHT PARAM
 
 Datalist Input: create an input with list="planets" and a corresponding `<datalist id="planets">` containing options for the 4 destinations.
 
-Select Dropdown: Create a `<select>` for "Cabin Class" with options: Economy (Stasis Pod), Business (Quarters), First (Zero-G Suite).
+Select Dropdown: Create a `select>` for "Cabin Class" with options: Economy (Stasis Pod), Business (Quarters), First (Zero-G Suite).<
 
 Submit: Add a `<button type="submit">` with text AUTHORIZE CREDIT TRANSFER.
 
